@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Marian Schmidt
-tagline: nairam
+tagline: 
 description: software engineer who loves to build exciting products and software
 ---
 
