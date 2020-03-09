@@ -63,3 +63,8 @@
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+
+.align-right {
+    margin: 0 auto;
+    text-align: right;
+}
