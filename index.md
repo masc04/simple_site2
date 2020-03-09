@@ -7,7 +7,7 @@ description: software engineer who loves to build exciting products and software
 
 ### Hi there
 
-![me]({{ ASSET_PATH }}/favicons/me.png){: .align-right}
+![me](/assets/favicons/me.png){: .align-right}
 Something about the first picture.
 {:style="clear: left"}
 I am a sofware engineer who loves to build exciting products and software.
